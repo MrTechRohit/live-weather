@@ -1,7 +1,7 @@
 // ==============================================================
 // 1. CONFIGURATION
 // ==============================================================
-const API_KEY = 'acc0ed2a261226588640eacefba06a89'; 
+const API_KEY ="YOUR_API_KEY_HERE"; 
 
 let currentUnit = 'metric';
 let currentCoords = null;
